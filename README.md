@@ -5,7 +5,7 @@ Script to generate and copy structure with differents parameters. Made with Pyth
 ## Table of contents
 * [Requirement](#Requirement)
 * [Setup](#Setup)
-* [How to use it](#how-to-use+it)
+* [How to use it](#how-to-use-it)
 * [In the future](#in-the-future)
 * [Version](#Version)
 * [Contact](#Contact)
