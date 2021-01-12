@@ -2,6 +2,14 @@
 ======
 Script to generate and copy structure with differents parameters. Made with Python 3. Maya Autodesk.
 
+## Table of contents
+* [Requirement](#Requirement)
+* [Setup](#Setup)
+* [How to use it](#How-to-use+it)
+* [In the future](#In-the-future)
+* [Version](#Version)
+* [Contact](#Contact)
+
 ## Requirement
 * Maya 2020 from Autodesk of course :)
 * Nothings else
